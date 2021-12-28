@@ -6,9 +6,9 @@ _Software engineer (and aspiring blockchain developer) based in Amsterdam, The N
 
 **Multi-tenant Shipping-Execution SaaS** @ [CONTAX](https://www.contax.com/) _(June, 2020  - Present)_ <br>
 Architect and Developer for our Multi-tenant Shipping-Exe SaaS platform on Cloud Foundry. 
-  - Refactor legacy shipping technology to run on open source frameworks such as RDS in a multi-tenant design 
-  - Support for multiple shipping-backend integrations
-  - Support for multiple ERP systems data source integrations
+  - Build Shipping Technology Software to run on open source frameworks such as RDS in a multi-tenant design in Cloud Foundry from ground up
+  - Multiple shipping-backend integrations
+  - Multiple ERP systems data source integrations
   - **_Technologies:_** Amazon Relational Database Service (RDS) Postgres, TypeScript, Jest, Cloud Application Programming Model (CAP), SAP Business Technology Platform (BTP), micro-services, Cloud Foundry, SaaS.
   - **_Integrations:_** SAP S/4 Cloud, SAP S/4 on-premise, ShipExec 2x, Postmen, Shippo, PrintNode 
 <br><br>
