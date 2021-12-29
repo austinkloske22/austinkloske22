@@ -19,17 +19,18 @@ Architect and Developer for our Multi-tenant Shipping-Exe SaaS platform on Cloud
 <br><br>
 
 **S/4 HANA Cloud Shipping Software** @ [CONTAX](https://www.contax.com/) _(January, 2019 - June, 2020)_ <br>
-Design, Develop and Test Cloud Shipping Solution for S/4 Hana Cloud migration. 
+Design, Develop and Test Cloud Entreprise Shipping Solution for S/4 Hana Cloud go-live. 
   - Closely collaborate with Client during their SAP on-premise to cloud migration to build and develop an enterprise-level Shipping Solution. 
   - **_Technologies:_** S/4 HANA DB, Node, CAP, BTP, SAPUI5 (front-end), micro-services, Cloud Foundry.
   - **_Integrations:_** SAP S/4 Cloud, ShipExec 2x, PrintNode 
 <br><br>
 
 **ShipExec** @ [CONTAX](https://www.contax.com/) & [ConnectShip](https://connectship.com/)( _(2017 - June, 2019)_ <br>
-Design, Develop and Test Cloud Shipping Solution for S/4 Hana Cloud migration. 
-  - Closely collaborate with Client during their SAP on-premise to cloud migration to build and develop an enterprise-level Shipping Solution.
+Administrate internal development landscapes running on AWS as well as create and distribute customer software installations & upgrades. 
   - Refactor backend components in order to streamline software updates accross 50+ ERP customers
-  - **_Technologies:_** SAP ECC 6.0, SAP S/4 ABAP, SAP Software-Delivery-Composer.
+  - Develop new software modules such as mobile RF shipping & automated multi-language support
+  - Refactor software solution to support future SAP technologies.
+  - **_Technologies:_** SAP ECC 6.0, SAP S/4 HANA, ABAP, SAP Software-Delivery-Composer (SDC).
 <br><br>
 
 ### 🌱 I’m Learning
