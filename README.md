@@ -39,6 +39,10 @@ Administrate internal development landscapes running on AWS as well as create an
 Jump start learning the Ethereum eco-system through scaffold Eth
 <br><br>
 
+**Buildspace Courses** @ [Buildspace](https://buildspace.so/)
+  - Build a Web3 App with Solidity + Ethereum Smart Contracts
+  - Mint your own NFT collection and ship a Web3 app to show them off
+
 
 ### 👩🏼‍🎓 Education
 
