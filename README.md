@@ -35,9 +35,8 @@ Administrate internal development landscapes running on AWS as well as create an
 
 ### 🌱 I’m Learning
 
-**Scaffold Eth** @ [Scaffold Eth](https://docs.scaffoldeth.io/scaffold-eth/) _(December 2020 - Present)_<br>
+**Scaffold Eth** @ [Scaffold Eth](https://docs.scaffoldeth.io/scaffold-eth/)
 Jump start learning the Ethereum eco-system through scaffold Eth
-<br><br>
 
 **Buildspace Courses** @ [Buildspace](https://buildspace.so/)
   - Build a Web3 App with Solidity + Ethereum Smart Contracts
