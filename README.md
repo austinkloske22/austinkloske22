@@ -1,9 +1,7 @@
 ## Austin Kloske
 
 _I'm currently a Senior Software Engineer at [CONTAX](https://www.contax.com/) (and aspiring blockchain developer) based in Amsterdam, The Netherlands_ <br>
-[![Visits Badge](https://badges.pufler.dev/visits/austinkloske22/git-badges)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/austinkloske22)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/austinkloske22)](https://badges.pufler.dev)
 
 ### 👩🏼‍💻 Techincal Experience
 
@@ -33,7 +31,7 @@ Administrate internal development landscapes running on AWS as well as create an
 
 ### 🌱 I’m Learning
 
-**Rust** @ [Teaching Yourself] (https://github.com/austinkloske22/the-book)
+**Rust** @ [Self-Learning](https://github.com/austinkloske22/the-book)
 
 **Scaffold Eth** @ [Scaffold Eth](https://docs.scaffoldeth.io/scaffold-eth/)
 Jump start learning the Ethereum eco-system through scaffold Eth
